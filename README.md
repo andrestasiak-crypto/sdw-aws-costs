@@ -1,9 +1,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS  
 
 ![AWS Badge](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws)  
-![Status](https://img.shields.io/badge/Status-Em%20Andamento-blue)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
-![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-lightgrey)  
 
 **Data:** 12/01/2026  
 **Empresa:** Abstergo Industries  
